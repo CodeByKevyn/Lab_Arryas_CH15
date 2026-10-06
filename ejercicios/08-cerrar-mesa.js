@@ -37,6 +37,7 @@ function cerrarMesa(menu, numeros) {
     cantidadPlatos: pedido.length,
     total: calcularCuenta(pedido)
   };
+  
 }
 
 // No borres esta línea: es la puerta por donde el test usa tu función
